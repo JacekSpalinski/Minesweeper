@@ -1,9 +1,3 @@
-/* *****************************************************************************
- *  Name:              Ada Lovelace
- *  Coursera User ID:  123456
- *  Last modified:     October 16, 1842
- **************************************************************************** */
-
 import java.util.Random;
 import java.util.Scanner;
 import java.util.ArrayList;
