@@ -1,7 +1,7 @@
 # Minesweeper
 Minesweeper project from JetBrains Academy 
 
-Following repository contains code for TicTacToe game, which is a project from JetBrain Academy. 
+Following repository contains code for Minesweeper game, which is a project from JetBrain Academy. 
 
 Descrition of the project: https://hyperskill.org/projects/77
 
